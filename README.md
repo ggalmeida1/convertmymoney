@@ -47,5 +47,6 @@ EN: This project is licenced under the therms of MIT license.
 
 ## Reconhecimentos/Acknowledgments
 
-PT: * Este projeto foi construído durante as aulas do Full Stack Master da DevPleno.
-EN: * This project was built during the classes of the course Full Stack Master from DevPleno.
+PT: * Este projeto foi construído durante as aulas do Full Stack Master [DevPleno](https://devpleno.com).
+
+EN: * This project was built during the classes of the course Full Stack Master from [DevPleno](https://devpleno.com).

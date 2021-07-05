@@ -47,5 +47,5 @@ EN: This project is licenced under the therms of MIT license.
 
 ## Reconhecimentos/Acknowledgments
 
-PT: * Este projeto foi construído durante as aulas do Curso Desenvolvimento Web Completo.
-EN: * This project was built during the classes of the course "Complete Web Development".
+PT: * Este projeto foi construído durante as aulas do Full Stack Master da DevPleno.
+EN: * This project was built during the classes of the course Full Stack Master from DevPleno.

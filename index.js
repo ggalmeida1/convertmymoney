@@ -11,8 +11,9 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', async(req, res) => {
     const cotacao = await apiBCB.getCotacao()
-    console.log('cotacao', cotacao)
-    res.render('home')
+    res.render('home', {
+        cotacao
+    })
 });
 
 app.get('/cotacao', (req, res) => {
